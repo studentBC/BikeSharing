@@ -11,6 +11,6 @@ How to use it:
    to let GA solver load these parameter setting. Finally, user could click run to see the solving result.
 
 
-Maintain problem:
+Maintenance problem:
 Since City government may change bike-sharing system json format on their database, it is possible that user cannot
 use TWTRP Generation page to generate benchmark
