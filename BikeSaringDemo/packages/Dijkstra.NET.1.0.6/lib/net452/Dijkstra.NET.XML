@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Dijkstra.NET</name>
+    </assembly>
+    <members>
+        <member name="M:Dijkstra.NET.Model.Graph`2.Reset">
+            <summary>
+            Reset distance in nodes
+            </summary>
+        </member>
+        <member name="M:Dijkstra.NET.Model.Graph`2.Clone">
+            <summary>
+            Deep copy of graph
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Dijkstra.NET.ShortestPath.Dijkstra`2.Process(System.UInt32,System.UInt32)">
+            <summary>
+            Get path from @from to @to
+            </summary>
+            <param name="from">Start node</param>
+            <param name="to">End node</param>
+            <returns>Value with path</returns>
+        </member>
+    </members>
+</doc>
